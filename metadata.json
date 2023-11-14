@@ -1,0 +1,8 @@
+{
+    "id": "dplace-datasets-modis",
+    "title": "D-PLACE dataset derived from NASA TERRA/MODIS 'Net Primary Productivity'",
+    "description": "Net Primary Productivity data derived from Moderate Resolution Imaging Spectroradiometer data.",
+    "license": "CC-BY-NC-4.0",
+    "url": "https://svs.gsfc.nasa.gov/30380",
+    "citation": "NASA. Net Primary Productivity (1 month - TERRA/MODIS)"
+}
