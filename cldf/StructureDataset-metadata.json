@@ -22,7 +22,7 @@
         {
             "rdf:about": "https://github.com/D-PLACE/dplace-dataset-modis",
             "rdf:type": "prov:Entity",
-            "dc:created": "ffe104b",
+            "dc:created": "3079ce3",
             "dc:title": "Repository"
         },
         {
@@ -42,7 +42,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "dplace-datasets-modis",
+    "rdf:ID": "dplace-dataset-modis",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
